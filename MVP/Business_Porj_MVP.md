@@ -9,4 +9,4 @@ Implemented Content based filtering using Cosine Similarity Matrix
 
 For a User liking the movie 'The Imitation Game', based on my recommendation engine, here's 10 movies that user might like
 
-![]()
+![](https://github.com/chetana-vyas/BusinessFundamentals/blob/main/Images/top-10-movies.PNG)
