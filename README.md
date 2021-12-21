@@ -30,6 +30,13 @@ Content-based filtering uses item features to recommend other items similar to w
 
 Collaborative filtering filters information by using the interactions and data collected by the system from other users. It's based on the idea that people who agreed in their evaluation of certain items are likely to agree again in the future.
 
+## Movie Recommendation Engine
+Implemented Content based filtering using Cosine Similarity Matrix. Used Movie features - Director, Actors, Genres.
+
+For a User liking the movie 'The Imitation Game', based on my recommendation engine, here's 10 movies that user might like
+
+![](https://github.com/chetana-vyas/BusinessFundamentals/blob/main/Images/top-10-movies.PNG)
+
 ## Tools:
 
 Google spreadsheets - initial Exploratory Data Analysis
