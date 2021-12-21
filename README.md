@@ -42,9 +42,9 @@ For a User liking the movie 'The Imitation Game', based on my recommendation eng
 Google spreadsheets - initial Exploratory Data Analysis
 Tableau - interactive dashboards
 Python packages for building the model –
-	1.	Scikit-learn – build Linear Regression model
-	2.	Pandas – manipulating and working on data frames
-	3.	NumPy – working with arrays
+* Scikit-learn – build Linear Regression model
+* Pandas – manipulating and working on data frames
+* NumPy – working with arrays
 
 
 4 Key Recommendations to focus on:
