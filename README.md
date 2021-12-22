@@ -39,9 +39,9 @@ For a User liking the movie 'The Imitation Game', based on my recommendation eng
 
 ## Tools:
 
-Google spreadsheets - initial Exploratory Data Analysis
-Tableau - interactive dashboards
-Python packages for building the model –
+* Google spreadsheets - initial Exploratory Data Analysis
+* Tableau - interactive dashboards
+* Python packages - building the model
 * Scikit-learn – build Linear Regression model
 * Pandas – manipulating and working on data frames
 * NumPy – working with arrays
